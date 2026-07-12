@@ -1,2 +1,2 @@
-# wlliam_gray_
+# Wlliam-S-Gray_
 My first portfolio website
